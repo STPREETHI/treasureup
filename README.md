@@ -61,23 +61,7 @@ Firebase Auth	Secure login
 Firebase Firestore	Real-time DB
 Firebase Hosting	Deployment
 CSS / Tailwind (optional)	Styling
-📂 Project Structure
-treasureup/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── context/
-│   ├── firebase/        # firebaseConfig.js
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── public/
-├── dist/                # Production build
-├── firebase.json
-├── .firebaserc
-├── .gitignore
-└── README.md
+
 
 
 🔥 Firebase Setup
