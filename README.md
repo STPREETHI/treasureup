@@ -79,6 +79,7 @@ treasureup/
 ├── .gitignore
 └── README.md
 
+
 🔥 Firebase Setup
 
 Create a .env file (DO NOT push to GitHub):
