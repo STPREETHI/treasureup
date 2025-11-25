@@ -1,0 +1,5 @@
+{
+  "name": "Society Treasurer Manager",
+  "description": "A web application for Housing Association Treasurers and Secretaries to track resident payments, view financial summaries, search transactions, and export reports.",
+  "requestFramePermissions": []
+}
